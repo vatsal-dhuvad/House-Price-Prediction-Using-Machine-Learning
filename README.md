@@ -57,7 +57,6 @@ House-Price-Prediction-Using-Machine-Learning/
 ├── house_price_prediction.ipynb
 ├── requirements.txt
 ├── README.md
-└── images/
 ```
 
 ---
